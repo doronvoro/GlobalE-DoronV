@@ -1,0 +1,6 @@
+@GlobalE_DoronV_HostAddress = http://localhost:5238
+
+GET {{GlobalE_DoronV_HostAddress}}/weatherforecast/
+Accept: application/json
+
+###
